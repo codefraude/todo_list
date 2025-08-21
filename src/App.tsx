@@ -104,8 +104,7 @@ const App: React.FC = () => {
     style={{
       minHeight: '100svh',
       display: 'flex',
-      justifyContent: 'center',   
-      // alignItems: 'center',     
+      justifyContent: 'center',     
       padding: 20,
       background: '#222',
       color: '#fff',
